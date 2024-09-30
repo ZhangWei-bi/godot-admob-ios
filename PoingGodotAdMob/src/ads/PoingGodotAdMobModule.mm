@@ -70,9 +70,9 @@ void unregister_poing_godot_admob_ads_types() {
     if (poing_godot_admob_interstitial_ad) {
         memdelete(poing_godot_admob_interstitial_ad);
     }
-    if (poing_godot_admob_rewarded_ad) {
-        memdelete(poing_godot_admob_rewarded_ad);
-    }
+//    if (poing_godot_admob_rewarded_ad) {
+//        memdelete(poing_godot_admob_rewarded_ad);
+//    }
     if (poing_godot_admob_rewarded_interstitial_ad) {
         memdelete(poing_godot_admob_rewarded_interstitial_ad);
     }
