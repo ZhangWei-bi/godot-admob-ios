@@ -1,3 +1,19 @@
+bi notes: 
+
+Omited a few commits to keep Google-mobile-ads-sdk at version 10.9.
+(This is to match the version of our firebase matching dependencies)
+Current firebase sdk: https://github.com/firebase/firebase-ios-sdk/releases/tag/10.14.0
+
+Commits skiped:
+https://github.com/poingstudios/godot-admob-ios/commit/36692656f2ae42525ce606c2a2d224c88dbeb1f8
+https://github.com/poingstudios/godot-admob-ios/commit/86de27231904c1b51510d0446bc6d6d899baece6
+https://github.com/poingstudios/godot-admob-ios/commit/4c912ca67951a85d2f122b30ae1d678fe768adfb
+https://github.com/poingstudios/godot-admob-ios/commit/36692656f2ae42525ce606c2a2d224c88dbeb1f8
+
+In order to use the latest commit instead, would need to use this versio of firebase:
+https://github.com/firebase/firebase-ios-sdk/releases/tag/10.25.0
+
+It would match with Google-Mobile-Ads-SDK 11.3 which is the same version as the tip of poing
 
 <h1 align="center">
   <br>
